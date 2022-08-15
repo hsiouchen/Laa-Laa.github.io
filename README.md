@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hsiouchen
-- 👀 I’m love :coffee :cake and :cooking
+- 👀 I’m love :coffee: :cake: and 🥾
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me: hsiouchen@gmail.com
